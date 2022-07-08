@@ -5,4 +5,4 @@ Quess who is NOT a member of the Seimas of the Republic of Lithuania. Game was c
  time when you will be playing.
 
 ## Link
-You can play this game here: [word game](https://niseme.github.io/17-car-racing/)
+You can play this game here: [word game](https://niseme.github.io/WORD-GAME/)
